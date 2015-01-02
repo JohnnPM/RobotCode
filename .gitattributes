@@ -5,7 +5,9 @@
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
 *.java text
-*.xml text
+
+# custom for nbproject file
+project.xml text eol=crlf
 
 # Custom for Visual Studio
 *.cs     diff=csharp
