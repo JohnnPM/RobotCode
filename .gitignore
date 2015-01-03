@@ -13,3 +13,5 @@ hs_err_pid*
 /AndromedaOneRobot/build/
 *.bak.xml
 /AndromedaOneRobot/nbproject/private/private.xml
+/bin
+/target
