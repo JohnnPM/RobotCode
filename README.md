@@ -14,5 +14,6 @@ The FIRST Robotics Competition challenges teams of young people and their mentor
 
 <b>Team Name</b>
 Team members voted from a list of different names and they chose to call the team AndromedaOne. The name was thought of and based off of the Andromeda galaxy in space.
+
 ---
 AdromedaOne 2014-2015 Robot Code • http://andromedaone.wordpress.com
